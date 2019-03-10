@@ -1,0 +1,34 @@
+PODS:
+  - Flutter (1.0.0)
+  - flutter_thumbnail_picker (0.0.1):
+    - Flutter
+  - thumbnails (0.0.1):
+    - Flutter
+  - video_player (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `.symlinks/flutter/ios`)
+  - flutter_thumbnail_picker (from `.symlinks/plugins/flutter_thumbnail_picker/ios`)
+  - thumbnails (from `.symlinks/plugins/thumbnails/ios`)
+  - video_player (from `.symlinks/plugins/video_player/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: ".symlinks/flutter/ios"
+  flutter_thumbnail_picker:
+    :path: ".symlinks/plugins/flutter_thumbnail_picker/ios"
+  thumbnails:
+    :path: ".symlinks/plugins/thumbnails/ios"
+  video_player:
+    :path: ".symlinks/plugins/video_player/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 9d0fac939486c9aba2809b7982dfdbb47a7b0296
+  flutter_thumbnail_picker: ce118437bd5284a245fd40edaf7380e6039ed43e
+  thumbnails: 3ab638dcd898c648469723272ccae0c26e5dd87b
+  video_player: 906796a841943c8d370ac7c13b18039aa9b56498
+
+PODFILE CHECKSUM: aff02bfeed411c636180d6812254b2daeea14d09
+
+COCOAPODS: 1.5.3

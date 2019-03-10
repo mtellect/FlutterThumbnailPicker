@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/iammaugost/bappstack/flutter_thumbnail_picker/example/build/flutter_thumbnail_picker/intermediates/res/merged/release/drawable/notification_bg_low.xml",
+        "source": "/Users/iammaugost/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/aee6d7b779007b6777208889f7c71529/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/iammaugost/bappstack/flutter_thumbnail_picker/example/build/flutter_thumbnail_picker/intermediates/res/merged/release/drawable/notification_tile_bg.xml",
+        "source": "/Users/iammaugost/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/aee6d7b779007b6777208889f7c71529/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/iammaugost/bappstack/flutter_thumbnail_picker/example/build/flutter_thumbnail_picker/intermediates/res/merged/release/drawable/notification_icon_background.xml",
+        "source": "/Users/iammaugost/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/aee6d7b779007b6777208889f7c71529/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/iammaugost/bappstack/flutter_thumbnail_picker/example/build/flutter_thumbnail_picker/intermediates/res/merged/release/drawable/notification_bg.xml",
+        "source": "/Users/iammaugost/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/aee6d7b779007b6777208889f7c71529/res/drawable/notification_bg.xml"
+    }
+]

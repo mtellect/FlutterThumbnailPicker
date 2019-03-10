@@ -1,0 +1,1 @@
+../../../../.symlinks/plugins/thumbnails/ios/Classes/ThumbnailsPlugin.h

@@ -1,0 +1,4 @@
+#Sun Mar 10 01:21:01 WAT 2019
+base.0=/Users/iammaugost/bappstack/flutter_thumbnail_picker/example/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

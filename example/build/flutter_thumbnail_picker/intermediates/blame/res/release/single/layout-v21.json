@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/iammaugost/bappstack/flutter_thumbnail_picker/example/build/flutter_thumbnail_picker/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/iammaugost/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/aee6d7b779007b6777208889f7c71529/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/iammaugost/bappstack/flutter_thumbnail_picker/example/build/flutter_thumbnail_picker/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/iammaugost/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/aee6d7b779007b6777208889f7c71529/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/iammaugost/bappstack/flutter_thumbnail_picker/example/build/flutter_thumbnail_picker/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/Users/iammaugost/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/aee6d7b779007b6777208889f7c71529/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/iammaugost/bappstack/flutter_thumbnail_picker/example/build/flutter_thumbnail_picker/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/iammaugost/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/aee6d7b779007b6777208889f7c71529/res/layout-v21/notification_template_custom_big.xml"
+    }
+]
